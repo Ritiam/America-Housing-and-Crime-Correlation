@@ -18,7 +18,7 @@ All the datasets used in this project are obtained from Kaggle and contain data 
 
 - **Crime Data (1975-2015)**: Includes total crimes committed in various U.S. cities, along with categorized numbers of crimes such as robbery, homicide, and assault.
 - **House Prices Data (2012-2025)**: Contains monthly house sales in different cities, reflecting the trend in real estate prices.
-- **Homelessness Data (2012-2018)**: Includes the total homeless count in different cities, categorized into sheltered, unsheltered, and family statuses.
+- **Homelessness Data (2007-201)**: Includes the total homeless count in different cities, have categories like sheltered, chronic etc.
 
 ## Tools & Libraries
 The analysis is conducted using Python with the following libraries:
@@ -46,4 +46,4 @@ The analysis is conducted using Python with the following libraries:
 ## Used Dataset Links
 - **Crime Data (1975-2015)**: https://www.kaggle.com/datasets/marshallproject/crime-rates
 - **House Prices Data (2012-2025)**: https://www.kaggle.com/datasets/vincentvaseghi/us-cities-housing-market-data
-- **Homelessness Data (2012-2018)**: https://www.kaggle.com/datasets/bigquery/sdoh-hud-pit-homelessness
+- **Homelessness Data (2007-2016)**: https://www.kaggle.com/datasets/adamschroeder/homelessness
